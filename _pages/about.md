@@ -19,6 +19,8 @@ Email: chaow@tongji.edu.cn
 
 Website: [https://mif.tongji.edu.cn/info/1031/1657.htm](https://mif.tongji.edu.cn/info/1031/1657.htm)
 
+Office: Room 203, Er Building, Tongji University, 4800 Caoan Road, Shanghai 201804, China.
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
