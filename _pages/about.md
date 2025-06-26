@@ -15,6 +15,10 @@ Distinguished Research Fellow and PhD Supervisor, Prof. Wang Chao was selected i
 
 Specializing in the preparation, design, and fundamental theoretical research of advanced electrochemical energy storage materials and devices, Prof. Wang has published 47 SCI-indexed papers in top journals including Advanced Materials, Energy & Environmental Science, Advanced Energy Materials, Nano Energy, and Nano Letters. Among them, 5 are ESI Highly Cited Papers, with total citations exceeding 4,200. She has also applied for one US patent, which has been technologically transferred.
 
+Email: chaow@tongji.edu.cn
+
+Website: [https://mif.tongji.edu.cn/info/1031/1657.htm](https://mif.tongji.edu.cn/info/1031/1657.htm)
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
