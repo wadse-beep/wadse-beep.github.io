@@ -30,9 +30,9 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Position Availability:
---
+**Position Availability:**
 1.Students with backgrounds in materials science, chemistry, physics, or related fields are welcome to apply for master's and doctoral programs.
+
 2.We are seeking ambitious young professionals with backgrounds in materials physics and chemistry, new energy materials and devices, electrochemistry, etc., to join our team as postdocs, assistant researchers, or research assistants. Competitive compensation packages are offered.
 
 Create content & metadata
